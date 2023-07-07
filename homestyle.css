@@ -1,0 +1,43 @@
+body {
+  background-image:url(download.jpg);
+  background-blend-mode:overlay;
+    
+  }
+  h1 {
+    
+    color: blue;
+    text-align:center;
+    background-color:white;"
+  }
+  p {
+    color: red;
+  font-family: courier;
+  font-size: 160%;
+  
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 25px;
+  margin:25px;
+  }
+
+  table {
+    margin: 50px;
+    padding: 10px;
+
+  }
+  ul{
+    margin: 50px;
+    padding: 10px;
+  }
+ 
+  a{
+    margin: 100px;
+    padding: 10px;
+  }
+  img{
+    width: 150px;
+    height: 150px;
+    margin-left:10px;
+    padding-left:10px;
+  }
+ 
